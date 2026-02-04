@@ -14,7 +14,9 @@ Bu proje ile aşağıdaki konularda deneyim kazandım:
 
 ## 📱 Ekran Görüntüsü
 
-![Uygulamanın Ekran Görüntüsü](phone_screen.png)
+<p align="center">
+  <img src="phone_screen.png" width="250" />
+</p>
 
 ## 🛠️ Kullanılan Teknolojiler
 
